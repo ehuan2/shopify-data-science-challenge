@@ -3,3 +3,5 @@
 !*.csv
 !ReadMe.md
 !.gitignore
+.Rproj.user
+!*.png
